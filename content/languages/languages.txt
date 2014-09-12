@@ -1,7 +1,0 @@
-Unfortunately there is no GitHub mirror of the languages files available.
-
-You need to downlaod the language files manually and put them into this folder.
-
-German: http://wpde.org/download/sprachdateien/
-
-Other languages: http://wpcentral.io/internationalization/
